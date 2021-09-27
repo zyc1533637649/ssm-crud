@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hello git by hot-fix");
         System.out.println("代码冲突");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
